@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kritix0220
+- 👋 Hi, I’m @kritix
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on projects which may push me to learn something and give me direction.
