@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @kritix
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on projects which may push me to learn something and give me direction.
-- 📫 How to reach me kritix11@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Normie
+- Hi, I’m @kritix
+- I’m interested in learning
+- I’m currently learning JAVA,python and machine learning too
+- I’m looking to collaborate on projects which may push me to learn something and give me direction.
+- How to reach me kritix11@gmail.com
+- Pronouns: he/him
+- Fun fact: Normie
 
 <!---
 kritix0220/kritix0220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
