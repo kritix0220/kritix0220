@@ -1,10 +1,11 @@
 - Hi, I’m @kritix
 - I’m interested in learning
-- I’m currently learning JAVA,python and machine learning too
-- I’m looking to collaborate on projects which may push me to learn something and give me direction.
-- How to reach me kritix11@gmail.com
+- I’m currently learning JAVA, Python and machine learning too
+- I’m looking to collaborate on projects that may push me to learn something and give me direction.
+- How to reach me: kritix11@gmail.com
 - Pronouns: he/him
-- Fun fact: Normie
+- Fun fact: Curious learner
+
 
 <!---
 kritix0220/kritix0220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
