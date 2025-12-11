@@ -1,4 +1,4 @@
-- Hi, I’m @kritix
+- Hi, I’m kritimaan
 - I’m interested in learning
 - I’m currently learning JAVA, Python and machine learning too
 - I’m looking to collaborate on projects that may push me to learn something and give me direction.
